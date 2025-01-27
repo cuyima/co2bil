@@ -11,9 +11,7 @@ import de.vlaasch.co2bil.exceptions.NotFoundException;
 import de.vlaasch.co2bil.external.api.EnergySource;
 import de.vlaasch.co2bil.web.api.Co2Balance;
 import de.vlaasch.co2bil.web.api.EnergyUsageEntry;
-import lombok.extern.slf4j.Slf4j;
 
-@Slf4j
 @Component
 class Co2BalanceTransformer {
 
