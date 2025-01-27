@@ -1,0 +1,3 @@
+external:
+  api: 
+    energySourcesApiUrl: https://applied-coding-challenge.s3.eu-central-1.amazonaws.com/backend/energy-sources.json
